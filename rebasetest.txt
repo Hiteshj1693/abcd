@@ -1,0 +1,3 @@
+rebase test first edit
+rebase test second edit
+rebase test third edit
